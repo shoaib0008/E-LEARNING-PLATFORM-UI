@@ -1,3 +1,16 @@
+# E-LEARNING-PLATFORM-UI
+
+*COMPANY*: CODTECH IT SOLUTIONS
+
+*NAME*: Shoaib Akhtar
+
+*INTERN ID*: CTIS6941
+
+*DOMAIN*: FRONT END DEVELOPMENT
+
+*DURATION*: 12 WEEEKS
+
+*MENTOR*: NEELA SANTOSH
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
